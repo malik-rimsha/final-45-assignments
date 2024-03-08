@@ -12,7 +12,10 @@ console.log("Uppercase:", personName.toUpperCase());
 
 // printing a personName in Titlecase
 
-console.log(personName.charAt(0).toUpperCase() + personName.slice(1,11));
+console.log(personName.charAt(0).toUpperCase() + personName.slice(1,5) + personName.slice(6,11));
+
+
+
 
 
 
